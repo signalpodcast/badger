@@ -1,0 +1,91 @@
+body
+{
+	background: url("img/bg_parchment3.jpg");
+	font-family: Helvetica, sans-serif;
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.podpanel
+{
+	position:relative;
+
+	border-width: thick;
+	border-style: ridge;
+	border-color: black;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+a
+{
+	color: black;
+}
+
+h1,h2
+{
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+h3
+{
+	margin-top: 0px;
+	font-size: medium;
+}
+
+p
+{
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.podpanel-text
+{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.descblock
+{
+	border: 0;
+	font-family: serif;
+	background: url("img/bg_parchment3.jpg");
+}
+
+.standardrow
+{
+	background-color: white;
+	color: black;
+}
+
+.selectedrow
+{
+	background-color: silver;
+	color: black;
+}
+
+.unselectedrow
+{
+	background-color: white;
+	color: gray;
+}
+
+#feed_text
+{
+	background-color: silver;
+}
+
+/* Center text */
+h1,h2,h3 { text-align: center; }
+
+.small { font-size: small; }
+
+
