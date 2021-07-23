@@ -1,3 +1,0 @@
-# Badger Books
-
-Hello
